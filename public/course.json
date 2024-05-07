@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "cover_img": "img/c1.png",
+        "title": "Introduction to C Programming",
+        "para": "Explore foundational programming with 'Introduction to C Programming' or algorithmic thinking in 'Problem-Solving Part'.",
+        "price": 19.99,
+        "credit": 3
+    },
+    {
+        "id": 2,
+        "cover_img": "img/c2.png",
+        "title": "Introduction to Algorithms",
+        "para": "Gain practical problem-solving skills in 'Introduction to Algorithms' or deepen understanding of OOP with 'Introduction to OOP Python'.",
+        "price": 29.99,
+        "credit": 2
+    },
+    {
+        "id": 3,
+        "cover_img": "img/c3.png",
+        "title": "Introduction to C++ for DSA",
+        "para": "Discover the power of C++ in 'Introduction to C++ for DSA' or delve into Software Engineering principles.",
+        "price": 24.99,
+        "credit": 1
+    },
+    {
+        "id": 4,
+        "cover_img": "img/c4.png",
+        "title": "Basic Data Structures",
+        "para": "Learn MySQL database management in 'Database (MySQL)' or enter the world of AWS in 'AWS, Cloud Computing'.",
+        "price": 39.99,
+        "credit": 4
+    },
+    {
+        "id": 5,
+        "cover_img": "img/c5.png",
+        "title": "Introduction to OOP Python",
+        "para": "Master fundamental data structures in 'Basic Data Structures' or elevate software development skills in 'Software Engineering'.",
+        "price": 49.99,
+        "credit": 2
+    },
+    {
+        "id": 6,
+        "cover_img": "img/c6.png",
+        "title": "Software Engineering",
+        "para": "Master software development principles and methodologies in 'Software Engineering'.",
+        "price": 34.99,
+        "credit": 3
+    },
+    {
+        "id": 7,
+        "cover_img": "img/c7.png",
+        "title": "AWS, Cloud Computing",
+        "para": "Explore cloud computing with a focus on AWS in 'AWS, Cloud Computing'.",
+        "price": 54.99,
+        "credit": 2
+    },
+    {
+        "id": 8,
+        "cover_img": "img/c8.png",
+        "title": "Database (MySQL)",
+        "para": "Learn relational database management with MySQL in 'Database (MySQL)'.",
+        "price": 44.99,
+        "credit": 5
+    },
+    {
+        "id": 9,
+        "cover_img": "img/c9.png",
+        "title": "Problem-Solving Part",
+        "para": "Enhance problem-solving skills with algorithmic thinking in 'Problem-Solving Part'.",
+        "price": 59.99,
+        "credit": 3
+    }
+]
