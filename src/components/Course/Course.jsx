@@ -4,7 +4,7 @@ const Course = ({course,handleButton}) => {
     const {cover_img,title,para,price,credit}=course;
 
     return (
-        <div className='mt-10 w-3/12 p-6 m-4 shadow-lg shadow-gray-500 rounded-md bg-white'>
+        <div className='mt-10  xl:w-3/12 md:w-2/5 sm:w-3/5  p-6 m-4 shadow-lg shadow-gray-500 rounded-md bg-white'>
             <img className='shadow-lg shadow-gray-400 rounded-md' src={cover_img} alt="" />
             <h1 className='font-bold text-sm mt-2'>{title}</h1>
             <p className='text-xs text-slate-600 mt-2'>{para}</p>
